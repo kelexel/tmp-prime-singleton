@@ -1,6 +1,5 @@
 
 var prime = require('prime');
-var SinglePrime = require('./single_prime.js');
 
 var _instance;
 
