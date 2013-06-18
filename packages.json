@@ -1,0 +1,10 @@
+{
+	"name": "...",
+	"description": "...",
+	"version": "0.0.2",
+	"private": true,
+	"dependencies": {
+	"prime": "0.1.0",
+	}
+}
+
